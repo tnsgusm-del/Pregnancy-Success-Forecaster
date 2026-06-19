@@ -1,0 +1,16 @@
+Plaintext
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & Models
+data/
+models/
+*.pkl
+*.pt
+*.pth
+
+# Environment
+venv/
+.env
